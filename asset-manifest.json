@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://emrekayik.github.io/csb-30l035/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://emrekayik.github.io/csb-30l035/static/js/main.44c8bc66.chunk.js",
+    "main.js.map": "https://emrekayik.github.io/csb-30l035/static/js/main.44c8bc66.chunk.js.map",
+    "runtime-main.js": "https://emrekayik.github.io/csb-30l035/static/js/runtime-main.304d3139.js",
+    "runtime-main.js.map": "https://emrekayik.github.io/csb-30l035/static/js/runtime-main.304d3139.js.map",
+    "static/js/2.3df4652d.chunk.js": "https://emrekayik.github.io/csb-30l035/static/js/2.3df4652d.chunk.js",
+    "static/js/2.3df4652d.chunk.js.map": "https://emrekayik.github.io/csb-30l035/static/js/2.3df4652d.chunk.js.map",
+    "index.html": "https://emrekayik.github.io/csb-30l035/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://emrekayik.github.io/csb-30l035/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3df4652d.chunk.js.LICENSE.txt": "https://emrekayik.github.io/csb-30l035/static/js/2.3df4652d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.304d3139.js",
+    "static/js/2.3df4652d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.44c8bc66.chunk.js"
+  ]
+}
